@@ -1,5 +1,7 @@
 # Memoteca
 
+This project was developed during the course "Angular 14: Apply the concepts and develop your first CRUD" taught by Alura
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
